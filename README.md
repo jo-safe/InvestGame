@@ -1,2 +1,2 @@
 # InvestGame
-In future it should be a cross-platform game about investing, trading or something, but now this repository has only a script for windows (using wx for python) to edit game data about some plot things for the game like exchanges information, news that should be happened by the plot, choosen by player.
+In future it should be a cross-platform game about investing, trading or something, but now this repository has only a script for windows (using wx for python) to edit game data about some plot things for the game like exchanges information, news that should be happened by the plot, choosen by player. Besides, there is an .exe file and an example data file that is only a utf-8 text file but it can by viewed correctly by the program.
